@@ -1,5 +1,5 @@
 # Project Overview
-This project is a case study on engineering judgment making in a chemical process safety enviornment. The process safety field is notorious for devistating incidents [CSB](https://www.csb.gov/). 
+This project is a case study on engineering judgment making in a chemical process safety enviornment. The process safety field is notorious for devistating incidents [(CSB)](https://www.csb.gov/). 
 
 This study uses the digital decision-making game called [Contents Under Pressure (CUP)](https://stemforall2020.videohall.com/presentations/1691.html). CUP was developed by a team of engineering faculty members with support from [Filament Games](https://www.filamentgames.com/). In CUP, players assume the role of a chemical plant manager and are faced with over 300 binary process safety judgments over the course of 15 in-game days. The user-interface positions the player in their office where they can see four key metrics at the top of the screen (time, safety, reputation, and productivity). A screenshot of the user interface for the game can be found below. 
 
